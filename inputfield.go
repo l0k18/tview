@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 )
 
 // InputField is a one-line box (three lines if there is a title) where the

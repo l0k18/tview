@@ -3,7 +3,7 @@ package tview
 import (
 	"sort"
 
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 	colorful "github.com/lucasb-eyer/go-colorful"
 )
 

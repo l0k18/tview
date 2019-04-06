@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 	"github.com/rivo/tview"
 )
 

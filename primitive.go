@@ -1,6 +1,6 @@
 package tview
 
-import "github.com/gdamore/tcell"
+import "git.parallelcoin.io/dev/tcell"
 
 // Primitive is the top-most interface for all graphical primitives.
 type Primitive interface {

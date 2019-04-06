@@ -1,7 +1,7 @@
 package tview
 
 import (
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 )
 
 // DefaultFormFieldWidth is the default field screen width of form elements

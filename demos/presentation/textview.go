@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 	"github.com/rivo/tview"
 )
 
@@ -59,7 +59,7 @@ const textView2 = `[green]package[white] main
 [green]import[white] (
     [red]"strconv"[white]
 
-    [red]"github.com/gdamore/tcell"[white]
+    [red]"git.parallelcoin.io/dev/tcell"[white]
     [red]"github.com/rivo/tview"[white]
 )
 

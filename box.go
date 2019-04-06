@@ -1,7 +1,7 @@
 package tview
 
 import (
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 )
 
 // Box implements Primitive with a background and optional elements such as a

@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 	"github.com/rivo/tview"
 )
 

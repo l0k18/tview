@@ -3,7 +3,7 @@ package tview
 import (
 	"sync"
 
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 )
 
 // The size of the event/update/redraw channels.

@@ -1,6 +1,6 @@
 package tview
 
-import "github.com/gdamore/tcell"
+import "git.parallelcoin.io/dev/tcell"
 
 // Theme defines the colors used when primitives are initialized.
 type Theme struct {

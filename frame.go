@@ -1,7 +1,7 @@
 package tview
 
 import (
-	"github.com/gdamore/tcell"
+	"git.parallelcoin.io/dev/tcell"
 )
 
 // frameText holds information about a line of text shown in the frame.
