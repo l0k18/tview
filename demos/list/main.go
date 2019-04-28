@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 func main() {

@@ -2,13 +2,13 @@ package main
 
 import (
 	"git.parallelcoin.io/dev/tcell"
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 const helloWorld = `[green]package[white] main
 
 [green]import[white] (
-    [red]"github.com/rivo/tview"[white]
+    [red]"git.parallelcoin.io/dev/tview"[white]
 )
 
 [green]func[white] [yellow]main[white]() {

@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"git.parallelcoin.io/dev/tcell"
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 const logo = `

@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"git.parallelcoin.io/dev/tcell"
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 // RadioButtons implements a simple primitive for radio button selections.

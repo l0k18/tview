@@ -1,7 +1,7 @@
 // Demo code for the Button primitive.
 package main
 
-import "github.com/rivo/tview"
+import "git.parallelcoin.io/dev/tview"
 
 func main() {
 	app := tview.NewApplication()

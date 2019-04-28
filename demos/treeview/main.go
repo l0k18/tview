@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 
 	"git.parallelcoin.io/dev/tcell"
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 // Show a navigable tree view of the current directory.

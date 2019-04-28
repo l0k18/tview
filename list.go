@@ -17,7 +17,7 @@ type listItem struct {
 
 // List displays rows of items, each of which can be selected.
 //
-// See https://github.com/rivo/tview/wiki/List for an example.
+// See https://git.parallelcoin.io/dev/tview/wiki/List for an example.
 type List struct {
 	*Box
 

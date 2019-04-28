@@ -17,7 +17,7 @@ import (
 	"strconv"
 
 	"git.parallelcoin.io/dev/tcell"
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 // Slide is a function which returns the slide's main primitive and its title.

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 // The width of the code window.

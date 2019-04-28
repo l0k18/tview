@@ -2,7 +2,7 @@ package main
 
 import (
 	"git.parallelcoin.io/dev/tcell"
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 const inputField = `[green]package[white] main
@@ -11,7 +11,7 @@ const inputField = `[green]package[white] main
     [red]"strconv"[white]
 
     [red]"git.parallelcoin.io/dev/tcell"[white]
-    [red]"github.com/rivo/tview"[white]
+    [red]"git.parallelcoin.io/dev/tview"[white]
 )
 
 [green]func[white] [yellow]main[white]() {

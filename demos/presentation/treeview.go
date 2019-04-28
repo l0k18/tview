@@ -4,12 +4,12 @@ import (
 	"strings"
 
 	"git.parallelcoin.io/dev/tcell"
-	"github.com/rivo/tview"
+	"git.parallelcoin.io/dev/tview"
 )
 
 const treeAllCode = `[green]package[white] main
 
-[green]import[white] [red]"github.com/rivo/tview"[white]
+[green]import[white] [red]"git.parallelcoin.io/dev/tview"[white]
 
 [green]func[white] [yellow]main[white]() {
 	$$$
